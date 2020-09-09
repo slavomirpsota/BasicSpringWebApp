@@ -1,0 +1,1 @@
+insert into human values (101, 'Jozko', 'Kukuricudus');

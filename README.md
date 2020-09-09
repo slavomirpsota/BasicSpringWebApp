@@ -20,7 +20,8 @@ After that it is possible to add people:
 > NAME (String)  
 > SURNAME (String)  
   
-*I have NOT implemented any validations, so please follow the data types as instructed above.*
+**I have NOT implemented any validations, so please follow the data types as instructed above.**  
+  
 There should be one default entry in the database at ID: 101 Jozko Kukuricudus
 
 ## Made with

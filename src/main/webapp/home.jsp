@@ -19,6 +19,11 @@
 		<label for="surname">Surname:</label><br>
 		<input type = "text" id = "surname" name="surname"><br>
 		<input type = "submit"><br>
+	</form><br>
+	<form action="getHumanById">
+		<label for="id">Fetch by ID:</label><br>
+		<input type = "text" id="id" name="hid"><br>
+		<input type = "submit"><br>
 	</form>
 </body>
 </html>

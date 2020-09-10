@@ -31,4 +31,11 @@ public class Human {
 		this.surname = surname;
 	}
 	
+	@Override
+	public String toString() {
+		return "Human [hid=" + hid + ", name=" + name + ", surname=" + surname + "]";
+	}
+	
+	
+	
 }

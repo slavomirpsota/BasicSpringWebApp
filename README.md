@@ -19,6 +19,8 @@ After that it is possible to add people:
 > ID (Integer)  
 > NAME (String)  
 > SURNAME (String)  
+And search by ID, there are 5 default DB entities at IDs 101-105  
+
   
 **I have NOT implemented any validations, so please follow the data types as instructed above.**  
   

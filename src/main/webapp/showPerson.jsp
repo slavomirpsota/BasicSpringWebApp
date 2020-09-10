@@ -15,7 +15,7 @@
 </c:forEach>
 </c:if>
 	
-	${human}	
+	${person}	
 
 </body>
 </html>

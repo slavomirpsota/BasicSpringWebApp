@@ -22,7 +22,7 @@ After that it is possible to add people:
   
 **I have NOT implemented any validations, so please follow the data types as instructed above.**  
   
-There should be one default entry in the database at ID: 101 Jozko Kukuricudus
+There should be five default entries in the database at IDs: 101-105
 
 ## Made with
 [Spring Tool Suite](https://spring.io/tools)  

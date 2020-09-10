@@ -9,7 +9,7 @@ This project was made in Spring tool suite and Maven, so cloning and importing i
 
 ## Usage
 
-Tomcat was used, so after running the application, the web app is located on: **localhost:8080/**  
+Tomcat was used, so after running the application, the web app is located on: **localhost:8080//**  
 Also H2 memory database was used, which can be found on: **localhost:8080/h2-console**  
 JDBC URL should be: **jdbc:h2:mem:user**  
 Username: **sa**  

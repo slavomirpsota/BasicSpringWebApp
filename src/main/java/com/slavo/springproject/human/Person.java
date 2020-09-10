@@ -4,7 +4,7 @@ import javax.persistence.Entity;
 import javax.persistence.Id;
 
 @Entity
-public class Human {
+public class Person {
 	
 	@Id
 	private int hid;
@@ -33,7 +33,7 @@ public class Human {
 	
 	@Override
 	public String toString() {
-		return "Human [hid=" + hid + ", name=" + name + ", surname=" + surname + "]";
+		return "[Person [hid=" + hid + ", name=" + name + ", surname=" + surname + "]";
 	}
 	
 	

@@ -11,7 +11,7 @@
 <a href="https://github.com/slavomirpsota">My GitHub</a><br>
 <a href="https://www.linkedin.com/in/slavom%C3%ADr-psota-5a910a150/?originalSubdomain=sk">My LinkedIn</a><br>
 </p>
-	<form action="addHuman">
+	<form action="addPerson">
 		<label for="id">ID:</label><br>
 		<input type = "text" id="id" name="hid"><br>
 		<label for="name">Name:</label><br>
@@ -20,9 +20,9 @@
 		<input type = "text" id = "surname" name="surname"><br>
 		<input type = "submit"><br>
 	</form><br>
-	<form action="getHumanById">
-		<label for="id">Fetch by ID:</label><br>
-		<input type = "text" id="id" name="hid"><br>
+	<form action="getPerson">
+		<label for="id">Fetch by ID, Name or Surname:</label><br>
+		<input type = "text" id="id" name="searchParam"><br>
 		<input type = "submit"><br>
 	</form>
 </body>
